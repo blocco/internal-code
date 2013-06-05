@@ -1,4 +1,4 @@
-%II4F+PGu9AN+3jBSpMSRQhOjIJraY+GJ5Nky/lTxdHEzT26/FnzaHHFGFK1HrA6WT7S+wtpM4PZpiDRL2K7WAHw3p3tqO2plr0WUGq2zNio7WLkixpqx65M9tutKz+xc6PFC0RmA3FhjEzriNUxxMtevaLFkADdiTqm/IbDUqOI=%%48488235%
+%L10/SCIkst0ZxRzOrybwwcGHB9zzE6ICKd1c1GgePzjJe4Nn1DSfSb0VqBxUa9eIINTl+1cwsEGoiK4eyCBBsixN5SFH8Va8IWAHMLSKpzfwC3C+T0M12B+ZcDbvU4TVSXPsagaKbsyUADjxudPJis2/eXnow5f5/sBkUUCBqYE=%%48488235%
 --new playerlist by Zach Lindblad (fusroblox)
 --contact him for any revisions/issues
 --------------------  
@@ -17,6 +17,8 @@ local ADMINS =
 	tarabyte = 1,
 	telamon = 'http://www.roblox.com/asset/?id=105897927',
 	sorcus = 'http://www.roblox.com/asset/?id=113059239',
+	aceswayuphigh = 1,
+	phil = 1, 
 	games = 1,
 	rbadam = 1,
 	atrippy = 1,
