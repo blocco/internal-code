@@ -1,4 +1,4 @@
-%WGvepTC0DM/ywIXMumBS3+f7+yKUfwowBVff33Loxx+btcztAIi8lcfoB3ZidFYVtjgC+AVLfw+gHudAaFqoV4o1lbICk3uU5l55tpFTullipbtuTGXidpo4/+iaCiRDRFe0YrMuvQ5afKrGopvpIMlmy6L/cunynuninqHJiTg=%%97188756%--[[
+%Y1x3T2HaVYXx2aEzlrG2mdc3C8LZ2GA2OobD7Uh+JPdiOoFb1oSc1G0grzy4yH93B5aa3qQpg0vG0E3GXOpShjXax7KAGp3X0NNJ6ccSUtMl1fM/DujUIQdI5hVv8wbZwZwcU5dGocTK4WUExe12vxGAswKA9aL+WHUfZJNj9YQ=%%97188756%--[[
 	//FileName: ChatScript.LUA 
 	//Written by: Sorcus 
 	//Description: Code for lua side chat on ROBLOX. Supports Scrolling.
@@ -168,7 +168,7 @@ local Chat = {
 			Admins_List = {'Sorcus', 'Shedletsky', 'Telamon', 'Tarabyte', 'StickMasterLuke', 'OnlyTwentyCharacters', 'FusRoblox', 'SolarCrane', 
 								'HotThoth', 'JediTkacheff', 'Builderman', 'Brighteyes', 'ReeseMcblox', 'GemLocker', 'GongfuTiger', 'Erik.Cassel', 'Matt Dusek', 'Keith',
 								'Totbl', 'LordRugDump', 'David.Baszucki', 'Dbapostle', 'DaveYorkRBX', 'nJay', 'OstrichSized', 'TobotRobot', 'twberg', 'ROBLOX', 'RBAdam', 'Doughtless',
-								'Anaminus', 'Stravant', 'Cr3470r', 'CodeWriter', 'Games'
+								'Anaminus', 'Stravant', 'Cr3470r', 'CodeWriter', 'Games', 'AcesWayUpHigh', 'Phil'
 								},
 
 			SafeChat_List = {
